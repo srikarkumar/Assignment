@@ -1,0 +1,6 @@
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day1_bank\Console_day1_bank\bin\Debug\Console_day1_bank.exe.config
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day1_bank\Console_day1_bank\bin\Debug\Console_day1_bank.exe
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day1_bank\Console_day1_bank\bin\Debug\Console_day1_bank.pdb
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day1_bank\Console_day1_bank\obj\Debug\Console_day1_bank.csprojResolveAssemblyReference.cache
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day1_bank\Console_day1_bank\obj\Debug\Console_day1_bank.exe
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day1_bank\Console_day1_bank\obj\Debug\Console_day1_bank.pdb

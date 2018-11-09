@@ -1,0 +1,6 @@
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day2_AssignOrder\Console_day2_AssignOrder\bin\Debug\Console_day2_AssignOrder.exe.config
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day2_AssignOrder\Console_day2_AssignOrder\bin\Debug\Console_day2_AssignOrder.exe
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day2_AssignOrder\Console_day2_AssignOrder\bin\Debug\Console_day2_AssignOrder.pdb
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day2_AssignOrder\Console_day2_AssignOrder\obj\Debug\Console_day2_AssignOrder.csprojResolveAssemblyReference.cache
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day2_AssignOrder\Console_day2_AssignOrder\obj\Debug\Console_day2_AssignOrder.exe
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day2_AssignOrder\Console_day2_AssignOrder\obj\Debug\Console_day2_AssignOrder.pdb

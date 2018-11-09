@@ -1,0 +1,6 @@
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day2_practice_order\Console_day2_practice_order\bin\Debug\Console_day2_practice_order.exe.config
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day2_practice_order\Console_day2_practice_order\bin\Debug\Console_day2_practice_order.exe
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day2_practice_order\Console_day2_practice_order\bin\Debug\Console_day2_practice_order.pdb
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day2_practice_order\Console_day2_practice_order\obj\Debug\Console_day2_practice_order.csprojResolveAssemblyReference.cache
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day2_practice_order\Console_day2_practice_order\obj\Debug\Console_day2_practice_order.exe
+C:\Users\prabhas\Desktop\path front\dotnet\Console_day2_practice_order\Console_day2_practice_order\obj\Debug\Console_day2_practice_order.pdb

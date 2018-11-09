@@ -1,0 +1,6 @@
+C:\Users\prabhas\Desktop\path front\dotnet\Console_Day2_Order\Console_Day2_Order\bin\Debug\Console_Day2_Order.exe.config
+C:\Users\prabhas\Desktop\path front\dotnet\Console_Day2_Order\Console_Day2_Order\bin\Debug\Console_Day2_Order.exe
+C:\Users\prabhas\Desktop\path front\dotnet\Console_Day2_Order\Console_Day2_Order\bin\Debug\Console_Day2_Order.pdb
+C:\Users\prabhas\Desktop\path front\dotnet\Console_Day2_Order\Console_Day2_Order\obj\Debug\Console_Day2_Order.csprojResolveAssemblyReference.cache
+C:\Users\prabhas\Desktop\path front\dotnet\Console_Day2_Order\Console_Day2_Order\obj\Debug\Console_Day2_Order.exe
+C:\Users\prabhas\Desktop\path front\dotnet\Console_Day2_Order\Console_Day2_Order\obj\Debug\Console_Day2_Order.pdb

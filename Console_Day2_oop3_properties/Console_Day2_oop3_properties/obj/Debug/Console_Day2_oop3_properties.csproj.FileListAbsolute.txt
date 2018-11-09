@@ -1,0 +1,6 @@
+C:\Users\prabhas\Desktop\path front\dotnet\Console_Day2_oop3_properties\Console_Day2_oop3_properties\bin\Debug\Console_Day2_oop3_properties.exe.config
+C:\Users\prabhas\Desktop\path front\dotnet\Console_Day2_oop3_properties\Console_Day2_oop3_properties\bin\Debug\Console_Day2_oop3_properties.exe
+C:\Users\prabhas\Desktop\path front\dotnet\Console_Day2_oop3_properties\Console_Day2_oop3_properties\bin\Debug\Console_Day2_oop3_properties.pdb
+C:\Users\prabhas\Desktop\path front\dotnet\Console_Day2_oop3_properties\Console_Day2_oop3_properties\obj\Debug\Console_Day2_oop3_properties.csprojResolveAssemblyReference.cache
+C:\Users\prabhas\Desktop\path front\dotnet\Console_Day2_oop3_properties\Console_Day2_oop3_properties\obj\Debug\Console_Day2_oop3_properties.exe
+C:\Users\prabhas\Desktop\path front\dotnet\Console_Day2_oop3_properties\Console_Day2_oop3_properties\obj\Debug\Console_Day2_oop3_properties.pdb
